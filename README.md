@@ -14,9 +14,13 @@
 
 >[(5)Java服务器开发支持](JavaServer/JavaServer.md)
 
+>[(5.1)Tools](Tools/SwingTools.md)
+
 >[(6)阿里云服务器学习](aliECS/阿里云服务器学习.md)
 
->[(7)软件、工具](Tools/Tools.md)
+>[(7)jenkines](http://www.jenkins.org.cn/)
+
+>[(8)软件、工具](Tools/Tools.md)
 
 ---
 
