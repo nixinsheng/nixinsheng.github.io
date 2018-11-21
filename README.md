@@ -18,17 +18,15 @@
 
 >[(6)阿里云服务器学习](aliECS/阿里云服务器学习.md)
 
-<<<<<<< HEAD
 >[(7)Charles抓包](Charles抓包/Charles.md)
 
 >[(8)软件、工具](Tools/Tools.md)
 
->[(9)Docker学习总结](http://blog.csdn.net/u012562943/article/category/6048991)
-=======
 >[(7)jenkines](http://www.jenkins.org.cn/)
 
 >[(8)软件、工具](Tools/Tools.md)
->>>>>>> nixs
+
+>[(9)Docker学习总结](http://blog.csdn.net/u012562943/article/category/6048991)
 
 ---
 
