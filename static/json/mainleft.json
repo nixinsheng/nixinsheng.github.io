@@ -1,0 +1,188 @@
+{
+  "article": [{
+      "id": "018",
+      "title": "Vue学习20191219",
+      "time": "2019年12月19日19:52:07",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190808/vue.png","https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20200103/20200103.png"],
+      "label": "Vue",
+      "content": ["MacOS 本地Nginx安装、Nginx部署Vue打包后的项目 测试ok；App.vue里导航抽离、router-link 了解",
+        "阿里ECS开放端口-安全策略开放指定端口 eg:80/8080/8090/443... 供配置SSL https访问",
+        "阿里ECS Tomcat配置SSL https访问",
+        "个人主页第二版更新-首页完成-2020年01月03日10:40:39",
+        "年后学习规划-Java后端-微服务-2020年01月03日14:16:21"]
+    },
+    {
+      "id": "017",
+      "title": "订单pos20191218",
+      "time": "2019年12月18日10:27:28",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20191218/04.png",
+        "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20191218/06.png",
+        "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20191218/09.png"
+      ],
+      "label": "Android POS",
+      "content": ["订单POS 菜单选择、刷卡、扫码、流水、扫码退款、刷卡退款、刷卡撤销、打印、结算等 2019年12月18日"]
+    },
+    {
+      "id": "016",
+      "title": "OpenApi更新20190820",
+      "time": "2019年08月20日18:29:52",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190820/%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F%E6%9C%89%E9%82%AE%E7%AE%B1%E7%9A%84%E5%88%99%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6%E9%80%9A%E7%9F%A5.PNG",
+        "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190820/%E4%BD%BF%E7%94%A8%E6%9C%9F%E5%BF%AB%E5%88%B0%E6%9C%9F%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92.PNG",
+        "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190820/OpenApi%E5%BC%80%E5%8F%91%E8%BF%9B%E5%BA%A6.png"
+      ],
+      "label": "Java/jQuery",
+      "content": ["OpenApi 【001 注册逻辑更新：注册会校验手机号是否合法、是否注册过(如果填写邮箱会校验邮箱是否合法-合法的情况下注册成功会邮件通知用户注册成功)】",
+      "【002用户使用期限逻辑更新-默认使用期限MySql数据库里的默认值 30天，定时任务每天0:00:00用户使用期-1天，当使用期=7天的时候会自动邮件通知用户是否续期】",
+      "【003OpenApi管理台基本信息页面jQuery请求后端shiro接口并展示最近开发进度】"]
+    },
+    {
+      "id": "015",
+      "title": "cocos2d-x编译到iOS/Android双平台",
+      "time": "2019年08月15日15:54:54",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190817/%E6%9C%AC%E5%9C%B0%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E6%9B%B4%E6%96%B0.png", "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190817/%E6%95%88%E6%9E%9C01.png", "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190817/%E6%95%88%E6%9E%9C02.png"],
+      "label": "cocos2d-x",
+      "content": ["step:【000 本地环境变量更新】",
+      "【001 本地NDK版本更新】",
+      "【002 Android.mk新增增加的自定义场景更新】",
+      "【003 CMake编译更新】",
+      "【004 更新中文字体库】",
+      "【005 实现自定义多场景编译到Android/iOS双平台】"]
+    },
+    {
+      "id": "014",
+      "title": "cocos2d-x复习",
+      "time": "2019年08月15日15:54:54",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190815/cocos2d-x.png", "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190815/helloworld.png"],
+      "label": "cocos2d-x/C/C++",
+      "content": ["【001：个人macbook-pro本 cocos2d-x最新版本环境搭建-目的：cocos2d-x引擎(C/C++)做2d跨平台应用C/C++一次编写交叉编译到其他平台】",
+      "【002：参考(亲测ok)：cocos2d-x 3.x Mac环境下搭建, 创建Xcode项目 https://blog.csdn.net/autom_lishun/article/details/81181587】",
+      "【003：创建cocos2d-x项目命令：（./cocos new HelloWorld -p com.nixs.HelloWorld -l cpp -d /Users/nixinsheng/Desktop/cocos2d-x-WorkSpace）】",
+      "【004：环境搭建命令行记录：localhost:cocos2d-x-3.17.2 nixinsheng$ ... nixinsheng$】"]
+    },
+    {
+      "id": "013",
+      "title": "jQuery Ajax请求接口数据",
+      "time": "2019年08月15日15:54:54",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190815/WX20190815-155057%402x.png", "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190815/WX20190815-155755%402x.png", "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190815/WX20190815-155924%402x.png"],
+      "label": "jQuery/Ajax",
+      "content": ["jQuery Ajax请求本地发布接口[OpenApi-豆瓣电影](爬虫爬取数据)数据-解决OpenApi SpringBoot跨域请求问题"]
+    },
+    {
+      "id": "012",
+      "title": "C/C++ MFC调用XXX.dll",
+      "time": "2019年08月13日",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190814/sss2.png", "https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190814/sss3.png"],
+      "label": "C/C++/MFC",
+      "content": ["C/C++ MFC引用目标XXX.dll类库调用通过"]
+    },
+    {
+      "id": "011",
+      "title": "Java调用C++封装XXX.dll",
+      "time": "2019年08月13日",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190814/sss.png"],
+      "label": "Java/JNI/C/C++",
+      "content": ["Java(SpringBoot Maven)通过JNI调用C++封装XXX.dll调试通过"]
+    },
+    {
+      "id": "010",
+      "title": "yyb app首页配合后端联调ok",
+      "time": "2019年08月13日16:15:16",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190813/WechatIMG4.png"],
+      "label": "yyb/Android/Java后端",
+      "content": ["yyb app(MVP+RxJava+OKhttp+Retrofit)首页配合后端调用ok"]
+    },
+    {
+      "id": "009",
+      "title": "C/C++学习应用",
+      "time": "2019年08月09日09:09:41",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190809/20190809%E6%95%88%E6%9E%9C.jpg"],
+      "label": "C/C++",
+      "content": ["C/C++(开发工具VisualStudio 2019)学习 Windows PC端MFC C++应用调用POS收银三方(Windows平台下 Java(Maven SpringBoot工程)通过JNI调起 C/C++编译类库XXX.dll文件（注意：C/C++制作类库文件是分平台的：[Windows平台：XXX.dll(供windows平台下开发应用调用)/Linux平台：XXX.so(兼容android)/Mac Unix平台：XXX.dylib(兼容iOS)]）,另外注意Windows上通过VisualStudio编译dll要想让Java能调起需要编译X64,C++ MFC能调起需要Win32)"]
+    },
+    {
+      "id": "008",
+      "title": "20190730yyb后端进度",
+      "time": "2019073O",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190809/WechatIMG21.jpeg"],
+      "label": "yyb/Java",
+      "content": ["20190730yyb后端进度"]
+    },
+    {
+      "id": "007",
+      "title": "2019073OpenApi接口进度",
+      "time": "2019073O",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190809/openapi.png"],
+      "label": "OpenApi/Java",
+      "content": ["2019073OpenApi接口进度",
+        "2020年01月03日想起来了-OpenApi这个名字好像是我先起的,不知是不是服务部署在阿里云上-近期看阿里用这个名字做文章了..."]
+    },
+    {
+      "id": "006",
+      "title": "2019年08月09日OpenApi爬取数据预览",
+      "time": "2019年08月09日09:55:42",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190809/WX20190809-095147%402x.png"],
+      "label": "OpenApi/Java",
+      "content": ["2019年08月09日OpenApi爬取数据预览-数据仅供学习-有需要帮助请联系 E-mail:1911398892@qq.com/微信见右边👉二维码-加友请备注要咨询内容"]
+    },
+    {
+      "id": "005",
+      "title": "OpeApi最新进度",
+      "time": "2019年07月19日16:56:04",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190808/openapi%E4%B8%80%E6%9C%9F.png"],
+      "label": "OpenApi/Java",
+      "content": ["OpenApi更新(20190715-20170719)"]
+    },
+    {
+      "id": "004",
+      "title": "Vue学习",
+      "time": "2019年07月17日16:34:21",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190808/vue.png"],
+      "label": "Vue",
+      "content": ["学习中...(该个人主页vue书写)"]
+    },
+    {
+      "id": "003",
+      "title": "Java开发后端/服务器",
+      "time": "2015年12月-2018年8月",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190808/java.png"],
+      "label": "Java/服务器",
+      "content": ["蚂蚁推推App后端接口开发",
+      "百度推送对接SDK开发",
+      "XMPP对接接口/推送开发",
+      "Shell脚本定时任务开发",
+      "阿里ECS/OSS/RDS/SLB/域名解析/https 赛门铁克证书配置",
+      "中信PC-POS(C#语言开发)",
+      "中信mis调用dll(C/C++)封装供PC调用唤起POS收银(Java/C#调用dll示例demo编写供分行及客户调用参考)"]
+    },
+    {
+      "id": "002",
+      "title": "Android开发应用",
+      "time": "2018年08月-至今",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190808/anroid.png"],
+      "label": "Android",
+      "content": ["中信收银台Android版",
+        "中信收银台POS版",
+        "中信收银台三方调用SDK Android版",
+        "中信收银POS Launcher Android版",
+        "中信订单补送app & 模拟补送后端",
+        "中信订单POS(ERP-App-独立开发 POS收银[刷卡、扫码]",
+        "(菜单产品支付管理)和北京分行合作-供北工大校园试点使用POS产品"]
+    },
+    {
+      "id": "001",
+      "title": "iOS开发应用",
+      "time": "2015年6月-至今",
+      "imgurl": ["https://wvqusrtg.oss-cn-hangzhou.aliyuncs.com/20190808/ios.png"],
+      "label": "iOS",
+      "content": ["管家婆物联通iOS版",
+        "北京联通极客随行iOS企业版",
+        "梦想盒子(公益组织)iOS版(已下架)",
+        "推推管家iOS版本",
+        "中信收银台iOS版、信e付iOS版",
+        "信e付Pro iOS版",
+        "信e付SDK iOS版",
+        "异度支付SDK iOS版",
+        "凤凰汇SDK参与更新 iOS版本"]
+    }
+  ]
+}
