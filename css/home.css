@@ -1,0 +1,136 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;    
+    text-align: left;
+}
+#title{
+    text-align: left;
+    /* 下方是否又下划线none、underline */
+    text-decoration: none;
+}
+#content{
+    text-align: left;    
+}
+/* 正常，未访问链接 */
+a:link{
+    color: #FF0000;
+}
+/* 用户已访问过的链接 */
+a:visited{
+    color: black;
+}
+/* 当用户鼠标放在链接上时 */
+a:hover{
+    color: green;
+    cursor: wait;
+}
+/* 链接被点击的那一刻 */
+a:active{
+    color: yellow;
+}
+
+hr{
+    color: sienna;
+}
+h3{
+    text-align: left;
+}
+ul.a{
+    line-height: 15px;
+}
+ul.b{
+    line-height: 15px;
+    list-style-type: square;
+}
+ol.c{
+    line-height: 15px;
+    list-style-type: upper-roman;
+}
+ol.d{
+    line-height: 15px;
+    list-style-type: lower-alpha;
+}
+ol.e{
+    line-height: 15px;
+    display: inline-block;
+}
+table,tr,th,td{
+    border: 1px solid black;
+    line-height: 20px;
+    text-align: center;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    background-color: rgb(79, 87, 190);
+    color: #FF0000;
+}
+.tr-color-0{
+    background-color: rgb(137, 161, 161);
+}
+.tr-color-1{
+    background-color: rgb(125, 200, 165);
+}
+caption{
+    caption-side: bottom;
+}
+#list{
+    float: left;
+}
+p{
+    line-height: 18px;
+}
+li{
+    display: inline;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    line-height: 18px;   
+}
+#footer{
+    border:1px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 100%;
+    height: 220px; 
+    text-align: left;
+}
+#pos_left{
+    border:1px solid rgb(207, 25, 25);
+    border-radius: 5px;    
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+#pos_middle{
+    border:1px solid rgb(19, 184, 27);
+    border-radius: 5px;    
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+#pos_right{
+    border:1px solid rgb(60, 35, 199);
+    border-radius: 5px;    
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    top: 10px;    
+}

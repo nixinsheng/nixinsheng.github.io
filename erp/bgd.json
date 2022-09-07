@@ -1,0 +1,86 @@
+{
+    "RESPCODE": "AAAAAAA",
+    "RESPMSG": "交易成功",
+    "RETCODE": "AAAAAAA",
+    "SDPTMRCHNO": "123456789",
+    "FSTMRCHNO": "A0001",
+    "FSTMRCHNM": "大学",
+    "FSTMRCHABBRNM": "清华",
+    "SECMRCHNO": "B0001",
+    "SECMRCHNM": "门卫",
+    "PRDTYPEAMT": "",
+    "PRDAMT": "",
+    "RESV1": "",
+    "PRDLIST": [
+        {
+            "icon": "el-icon-phone",
+            "PRDINDR": "买一送一",
+            "PRDTYPE": "食品",
+            "PRDTYPENO": "0001",
+            "PRDREMAIN": "",
+            "PRDNM": "果冻",
+            "PRDNO": "0001",
+            "PRDPRC": "1.00"            
+        },
+        {
+            "icon": "el-icon-phone",
+            "PRDINDR": "买一送二",
+            "PRDTYPE": "食品",
+            "PRDTYPENO": "0001",
+            "PRDREMAIN": "",
+            "PRDNM": "鱼片",
+            "PRDNO": "0002",
+            "PRDPRC": "2.00"
+        },
+        {
+            "icon": "el-icon-phone",
+            "PRDINDR": "买一送二",
+            "PRDTYPE": "球类",
+            "PRDTYPENO": "0002",
+            "PRDREMAIN": "",
+            "PRDNM": "足球",
+            "PRDNO": "0001",
+            "PRDPRC": "3.00"
+        },
+        {
+            "icon": "el-icon-phone",
+            "PRDINDR": "买一送二",
+            "PRDTYPE": "球类",
+            "PRDTYPENO": "0002",
+            "PRDREMAIN": "",
+            "PRDNM": "篮球",
+            "PRDNO": "0002",
+            "PRDPRC": "4.00"
+        },
+        {
+            "icon": "el-icon-phone",
+            "PRDINDR": "",
+            "PRDTYPE": "服装",
+            "PRDTYPENO": "0003",
+            "PRDREMAIN": "",
+            "PRDNM": "卫衣",
+            "PRDNO": "0001",
+            "PRDPRC": "1.00"
+        },
+        {
+            "icon": "el-icon-phone",
+            "PRDINDR": "买一送二",
+            "PRDTYPE": "球类",
+            "PRDTYPENO": "0002",
+            "PRDREMAIN": "",
+            "PRDNM": "篮球",
+            "PRDNO": "0002",
+            "PRDPRC": "4.00"
+        },
+        {
+            "icon": "el-icon-phone",
+            "PRDINDR": "",
+            "PRDTYPE": "服装",
+            "PRDTYPENO": "0003",
+            "PRDREMAIN": "",
+            "PRDNM": "卫衣",
+            "PRDNO": "0001",
+            "PRDPRC": "1.00"
+        }
+    ]
+}
