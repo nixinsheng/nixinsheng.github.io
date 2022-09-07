@@ -1,2 +1,2 @@
-# myhome
-vue个人站点
+# nixinsheng.github.ip
+vue个人站点-zhengxi
