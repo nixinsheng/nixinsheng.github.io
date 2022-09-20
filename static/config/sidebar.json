@@ -1,14 +1,14 @@
 {
     "blogroll":[
         {
-            "site": "码中人",
-            "url": "http://www.mzh.ren/",
-            "description": "'码中人'是一个帮助开发者成长的社区，技术文章由'码中人社区'的技术大牛和极客共同编辑为你筛选出最优质的干货，其中包括：Android、iOS、前端、后端等方面的内容"
+            "site": "个人CSDN",
+            "url": "https://blog.csdn.net/wvqusrtg?type=blog",
+            "description": "个人博客-CSDN"
         },
         {
-            "site": "大众消弱手册",
-            "url": "http://www.dzxfsc.com",
-            "description": "「大众消费手册」面向大众生活、是一个汇集广大网友消费经验的平台，提供丰富的优惠信息、特价资讯。"
+            "site": "个人简书",
+            "url": "https://www.jianshu.com/u/33be35d7778e",
+            "description": "简书"
         }
     ],
     "ads":[
@@ -20,38 +20,16 @@
     ],
     "categories":[
         {
-            "name": "阅读笔记",
-            "slug": "reading-notes"
+            "name": "IT技术",
+            "slug": "it"
         },
         {
-            "name": "无病呻吟",
-            "slug": "shenyin"
+            "name": "感悟",
+            "slug": "personal"
         },
         {
-            "name": "篮球日记",
-            "slug": "basketball"
-        },
-        {
-            "name": "诗词歌赋",
-            "slug": "poem"
-        },
-        {
-            "name": "生活随笔",
-            "slug": "life"
-        },
-        {
-            "name": "社会观察",
-            "slug": "social"
-        },
-        {
-            "name": "影音娱乐",
-            "slug": "movie"
-        },
-        {
-            "name": "文艺创作",
-            "slug": "write"
+            "name": "赚钱",
+            "slug": "money"
         }
     ]
-
-
 }

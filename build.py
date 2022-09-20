@@ -60,4 +60,8 @@ def insert_db(post):
 
 
 if __name__ == '__main__':
-    markdown(sys.argv[1])
+    # markdown(sys.argv[1])
+    # 复测优化填充到数据库 python脚本文件
+    fileurl = f'/Users/admin/Downloads/nixinsheng.github.io/static/posts/2020404/index.md'
+    fileurl = f'/Users/admin/Downloads/nixinsheng.github.io/static/posts/20220920_142958-news/index.md'
+    markdown(fileurl)
