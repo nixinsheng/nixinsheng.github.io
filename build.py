@@ -64,4 +64,5 @@ if __name__ == '__main__':
     # 复测优化填充到数据库 python脚本文件
     fileurl = f'/Users/admin/Downloads/nixinsheng.github.io/static/posts/2020404/index.md'
     fileurl = f'/Users/admin/Downloads/nixinsheng.github.io/static/posts/20220920_142958-news/index.md'
+    fileurl = f'/Users/admin/Downloads/nixinsheng.github.io/static/posts/20220920_184130-filedownload/index.md'
     markdown(fileurl)
