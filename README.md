@@ -1,3 +1,4 @@
+https://github.com/mzhren/VueMarkdownBlog
 
 # 简洁，简洁，还是简洁...
 VueMarkdownBlog 是基于Vuejs框架及markdown格式的静态博客生成器。超简单配置，通过markdown写作博客。
